@@ -1,4 +1,4 @@
-# [Patreon Clone]
+
 
 <h2>It is an online subscription based creators platform </h2>
 <h3>A collaborative project cloned by a team of 4 members in a week.</h3>
@@ -10,4 +10,6 @@
 <p>---> Creator dashboard</p>
 <p>---> Patron dashboard dashboard</p>
 <p>---> Payment Pages</p>
+
+<a href="https://github.com/damodarkolar/patreon-clone-React-app" target="_blanck">Live Site</a>
 
