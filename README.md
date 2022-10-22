@@ -11,5 +11,5 @@
 <p>---> Patron dashboard dashboard</p>
 <p>---> Payment Pages</p>
 
-<a href="https://github.com/damodarkolar/patreon-clone-React-app" target="_blanck">Live Site</a>
+<a href="https://patreon-clone-lovat.vercel.app/" target="_blanck">Live Site</a>
 <img href="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"/>
