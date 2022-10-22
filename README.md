@@ -12,4 +12,4 @@
 <p>---> Payment Pages</p>
 
 <a href="https://patreon-clone-lovat.vercel.app/" target="_blanck">Live Site</a>
-<img src="https://github.com/Jasmine-Shaikh/PepperfryClone/blob/main/pepperfry.PNG"/>
+<img src="https://github.com/damodarkolar/patreon-clone-React-app/blob/master/Screenshot%20(69).png"/>
