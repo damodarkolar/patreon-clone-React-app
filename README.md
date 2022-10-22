@@ -12,6 +12,7 @@
 <p>---> Payment Pages</p>
 
 <a href="https://patreon-clone-lovat.vercel.app/" target="_blanck">Live Site</a>
+img src="https://github.com/damodarkolar/patreon-clone-React-app/blob/master/Screenshot%20(72).png'/>
 <img src="https://github.com/damodarkolar/patreon-clone-React-app/blob/master/Screenshot%20(69).png"/>
 <img src="https://github.com/damodarkolar/patreon-clone-React-app/blob/master/Screenshot%20(70).png"/>
 <img src="https://github.com/damodarkolar/patreon-clone-React-app/blob/master/Screenshot%20(71).png"/>.
