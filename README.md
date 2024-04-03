@@ -1,9 +1,8 @@
 
 
-<h2>It is an online subscription based creators platform </h2>
-<h3>A collaborative project cloned by a team of 4 members in a week.</h3>
+<h2>An online subscription-based creators platform facilitates content creation in various formats, including text, audio, and video. Empowering creators to share their expertise and passion through diverse mediums, fostering engagement and community interaction.</h2>
 <br/>
-<h4>Tech Stack : HTML | CSS | JavaScript | JSON-Server| React| Redux| Chakra Ui</h4>
+<h4>Tech Stack : HTML | CSS | JavaScript | JSON-Server| React| Redux | Chakra Ui</h4>
 <h4>Features : </h4>
 <p>---> Login</p>
 <p>---> Sign Up</p>
